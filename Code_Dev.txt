@@ -1,0 +1,19 @@
+
+---------------------- Demo code Below: ---------------------- 
+
+---------------------- Demo code Below: ---------------------- 
+
+---------------------- Demo code Below: ---------------------- 
+
+***** DemoCode_Get_DataLength() *****  
+
+***** DemoCode_Set_DataLength() *****  
+Switch (a = 1
+
+b=a
+):
+    case(a = 1
+
+b=a
+):
+    break;
